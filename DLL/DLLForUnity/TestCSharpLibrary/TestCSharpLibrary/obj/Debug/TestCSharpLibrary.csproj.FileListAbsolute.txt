@@ -1,0 +1,6 @@
+C:\Users\s171735\Desktop\DLL\DLLForUnity\TestCSharpLibrary\TestCSharpLibrary\obj\Debug\TestCSharpLibrary.csproj.CoreCompileInputs.cache
+C:\Users\s171735\Desktop\DLL\DLLForUnity\TestCSharpLibrary\TestCSharpLibrary\bin\Debug\TestCSharpLibrary.dll
+C:\Users\s171735\Desktop\DLL\DLLForUnity\TestCSharpLibrary\TestCSharpLibrary\bin\Debug\TestCSharpLibrary.pdb
+C:\Users\s171735\Desktop\DLL\DLLForUnity\TestCSharpLibrary\TestCSharpLibrary\obj\Debug\TestCSharpLibrary.dll
+C:\Users\s171735\Desktop\DLL\DLLForUnity\TestCSharpLibrary\TestCSharpLibrary\obj\Debug\TestCSharpLibrary.pdb
+C:\Users\s171735\Desktop\DLL\DLLForUnity\TestCSharpLibrary\TestCSharpLibrary\obj\Debug\TestCSharpLibrary.csprojResolveAssemblyReference.cache

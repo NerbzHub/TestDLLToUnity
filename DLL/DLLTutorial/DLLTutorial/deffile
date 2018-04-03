@@ -1,0 +1,5 @@
+LIBRARY dll_tutorial
+DESCRIPTION "our simple DLL"
+EXPORTS
+Add @1
+Function @2

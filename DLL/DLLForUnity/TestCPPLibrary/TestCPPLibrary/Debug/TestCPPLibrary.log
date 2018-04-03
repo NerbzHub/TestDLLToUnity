@@ -1,0 +1,7 @@
+﻿  TestCPPLibrary.cpp
+c:\users\s171735\desktop\dll\dllforunity\testcpplibrary\testcpplibrary\testcpplibrary.cpp(6): warning C4273: 'TestMultiply': inconsistent dll linkage
+  c:\users\s171735\desktop\dll\dllforunity\testcpplibrary\testcpplibrary\testcpplibrary.h(12): note: see previous definition of 'TestMultiply'
+c:\users\s171735\desktop\dll\dllforunity\testcpplibrary\testcpplibrary\testcpplibrary.cpp(11): warning C4273: 'TestDivide': inconsistent dll linkage
+  c:\users\s171735\desktop\dll\dllforunity\testcpplibrary\testcpplibrary\testcpplibrary.h(13): note: see previous definition of 'TestDivide'
+     Creating library C:\Users\s171735\Desktop\DLL\DLLForUnity\TestCSharpLibrary\Debug\TestCPPLibrary.lib and object C:\Users\s171735\Desktop\DLL\DLLForUnity\TestCSharpLibrary\Debug\TestCPPLibrary.exp
+  TestCPPLibrary.vcxproj -> C:\Users\s171735\Desktop\DLL\DLLForUnity\TestCSharpLibrary\Debug\TestCPPLibrary.dll

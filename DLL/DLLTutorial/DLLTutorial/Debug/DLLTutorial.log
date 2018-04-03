@@ -1,0 +1,5 @@
+﻿  DLLTutorial.cpp
+deffile(2): warning LNK4017: DESCRIPTION statement not supported for the target platform; ignored
+     Creating library C:\Users\s171735\Desktop\DLL\DLLTutorial\Debug\DLLTutorial.lib and object C:\Users\s171735\Desktop\DLL\DLLTutorial\Debug\DLLTutorial.exp
+DLLTutorial.exp : warning LNK4070: /OUT:dll_tutorial.dll directive in .EXP differs from output filename 'C:\Users\s171735\Desktop\DLL\DLLTutorial\Debug\DLLTutorial.exe'; ignoring directive
+  DLLTutorial.vcxproj -> C:\Users\s171735\Desktop\DLL\DLLTutorial\Debug\DLLTutorial.exe
