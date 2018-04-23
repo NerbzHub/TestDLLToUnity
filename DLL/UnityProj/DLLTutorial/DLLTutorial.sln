@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLLTutorial", "DLLTutorial.csproj", "{2575851A-722C-527F-303C-CB7D8E859041}"
 EndProject
 Global
