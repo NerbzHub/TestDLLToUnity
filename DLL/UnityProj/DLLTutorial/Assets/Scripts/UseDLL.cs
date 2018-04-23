@@ -4,16 +4,21 @@ using System.Runtime.InteropServices;
 using System.IO;
 using TestCSharpLibrary;
 
+
 public class UseDLL : MonoBehaviour
 {
-
+    
     // Straight From the c++ Dll (unmanaged)
     [DllImport("TestCPPLibrary", EntryPoint = "TestDivide")]
     public static extern float StraightFromDllTestDivide(float a, float b);
 
+    [DllImport("RakNet", EntryPoint = "RakPeerInterface")]
+    public static extern void ImportedRakPeerInterface();
+
     // Use this for initialization
     void Start()
     {
+
 
         /* */
         // Call the C# DLL SharpMultiply function
