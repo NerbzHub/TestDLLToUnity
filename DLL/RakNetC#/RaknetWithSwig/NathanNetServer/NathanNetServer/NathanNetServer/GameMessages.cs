@@ -36,7 +36,7 @@ namespace NathanNetServer
                 {
                     switch (packet.data[0])
                     {
-                        case RakNet.DefaultMessageIDTypes.ID_NEW_INCOMING_CONNECTION:
+                        case (int)RakNet.DefaultMessageIDTypes.ID_NEW_INCOMING_CONNECTION:
                             
                             break;
                     }
